@@ -53,6 +53,6 @@ It replicates the layout and structure of a Product Listing Page (PLP) with filt
 
 1. **Clone or Extract ZIP**
    ```bash
-   git clone https://github.com/ibrahim9492/Appscrip_Assignment.git
+   git clone https://github.com/Aishwarya-Naidu401/Appscrip_Assignment-main.git
 
    cd Appscrip_Assignment
